@@ -1,0 +1,19 @@
+body{
+  background-color: white
+}
+
+.nav-wrapper{
+  background: gray
+}
+
+.page-footer{
+  background: gray
+}
+
+img {
+max-width: 50%;
+}
+
+.row {
+  margin: 0 auto;
+}
